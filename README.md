@@ -89,3 +89,15 @@ body {
 ```
 </div>
 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/sedaryildirim/code-snippets.svg?style=for-the-badge
+[contributors-url]: https://github.com/sedaryildirim/code-snippets/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sedaryildirim/code-snippets.svg?style=for-the-badge
+[forks-url]: https://github.com/sedaryildirim/code-snippets/network/members
+[stars-shield]: https://img.shields.io/github/stars/sedaryildirim/code-snippets.svg?style=for-the-badge
+[stars-url]: https://github.com/sedaryildirim/code-snippets/stargazers
+[license-shield]: https://img.shields.io/github/license/sedaryildirim/code-snippets.svg?style=for-the-badge
+[license-url]: https://github.com/sedaryildirim/code-snippets/blob/main/LICENSE.txt
+[product-screenshot]: imgs/screenshot.png
