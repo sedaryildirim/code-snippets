@@ -39,12 +39,6 @@ This is small collection of html/css that i frequently use for ease of access.
 
 body {
     min-height: 100vh;
-    background-color: var(--violet);
-    background-image: url(../images/bg-mobile.svg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    color: white;
     font-family: var(--body-font);
     font-size: 16px;
     line-height: 1.5;
@@ -55,33 +49,27 @@ body {
 ### Footer
 ```html
     <footer class="attribution">
-        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noopener">Frontend Mentor</a>.
+        Challenged by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noopener">Frontend Mentor</a>.
         Coded by <a href="https://www.frontendmentor.io/profile/sedaryildirim">Sedar Yildirim</a>.
     </footer>
 ```
 
 ```css
-    footer {
-        flex-direction: column;
-        align-items: center;
-      }
-    
-      .socials {
-        width: 100%;
-        justify-content: flex-end;
-        margin-bottom: 1rem;
-      }
-    
-      .attribution {
-        font-size: 11px;
-        width: 100%;
-        text-align: center;
-      }
+footer {
+    margin-top: 2rem;
+    text-align: center;
+}
 
-    .attribution a {
-    color: white;
+.attribution {
+    font-size: 0.7rem;
+    color: var(--dark-cyan);
+}
+
+.attribution a {
+    color: var(--medium-cyan);
     text-decoration: none;
 }
+
 .attribution a:hover {
     text-decoration: underline;
 }
